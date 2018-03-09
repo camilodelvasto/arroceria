@@ -1,0 +1,32 @@
+body {font-family:arial,sans-serif;font-size:11px;color:#fff;background:#f03 url(../images/trebol.jpg);}
+h1,h2,h3,h4,p{margin:0;font-size:12px;font-weight:normal;line-height:15px;}
+#wrapper{width:900px;height:650px;margin:auto auto;background:#f03 url(../images/background.jpg);position:absolute;left:50%;top:50%;margin-left:-450px;margin-top:-325px;}
+.wrapper{position:relative;}
+#logo{position:absolute;left:17px;top:17px;}
+h2#download-menu img{position:absolute;top:296px;left:30px;}
+h2#download-menu a img{border:none;}
+
+div.rightbar{position:absolute;right:17px;top:150px;width:150px;height:500px;text-align:center;}
+.rightbar h3{text-transform:uppercase;font-weight:bold;color:#faf39a;letter-spacing:0.1em;margin-top:10px;margin-bottom:7px;font-size:15px;line-height:15px;}
+.rightbar p{font-weight:normal;font-size:13px;line-height:13px;margin:0 0 2px 0;}
+.rightbar h4{font-size:16px;line-height:16px;font-weight:normal;color:#ec1e24;margin:0 0 0px 0;}
+.rightbar p.small{font-weight:normal;font-size:10px;margin:0;line-height:10px;}
+.rightbar .separator{font-size:1px;height:16px;}
+
+#footer{position:absolute;width:150px;height:60px;bottom:17px;right:0px;}
+#footer h3{color:#fff;margin-bottom:3px;}
+#footer a{color:#fff;text-decoration:none;font-size:12px;}
+#footer a:hover{text-decoration:underline;}
+
+div#slideshow{position:absolute;background:#fff;width:703px;height:293px;top:340px;left:18px;overflow:hidden;}
+#imageContainer img {
+	display:none; 	
+	position:absolute; 	
+	top:0px; left:0px; 	
+	opacity: -0.01;
+	width:703px;
+	height:293px;
+	overflow:hidden;
+	}
+
+
